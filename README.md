@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: ibarralucas794@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am colorblind lol
+- ⚡ Fun fact: I am colorblind
 
 <!---
 ibarra794/ibarra794 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
